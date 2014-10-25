@@ -1,3 +1,4 @@
+
 class TimeController < ApplicationController
   def time
     time = Time.new
